@@ -13,6 +13,7 @@
 }
 .App footer a {
   text-decoration: none;
+  color: black;
 }
 
 .App footer a:hover {

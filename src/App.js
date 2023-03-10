@@ -8,7 +8,6 @@ export default function App() {
     <div className='App'>
       <div className='container'>
         <Dictionary />
-        <p>Hello!</p>
         <footer>
           <p>
             This project was coded by{" "}
