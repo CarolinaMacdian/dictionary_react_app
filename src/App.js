@@ -1,13 +1,14 @@
 /** @format */
 
 import "./App.css";
-import SearchEngine from "./SearchEngine";
+import Dictionary from "./Dictionary";
 
 export default function App() {
   return (
     <div className='App'>
       <div className='container'>
-        <SearchEngine />
+        <Dictionary />
+        <p>Hello!</p>
         <footer>
           <p>
             This project was coded by{" "}
