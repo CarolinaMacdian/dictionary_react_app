@@ -3,7 +3,6 @@
 .App {
   max-width: 600px;
   margin: 30px auto;
-  font-family: "Poppins", sans-serif;
 }
 
 .App footer {
@@ -13,7 +12,7 @@
 }
 .App footer a {
   text-decoration: none;
-  color: black;
+  color: #ffb6c1;
 }
 
 .App footer a:hover {
