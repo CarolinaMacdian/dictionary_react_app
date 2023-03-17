@@ -12,7 +12,7 @@ export default function Photos(props) {
           {props.photos.map(function (photo, index) {
             return (
               <div
-                className='col-4'
+                className='column'
                 key={index}>
                 <img
                   alt='images about search'
